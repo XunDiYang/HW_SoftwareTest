@@ -1,0 +1,30 @@
+
+The line : Lines 15-15
+@@Class: 
+ZipEntry
+Call method: 
+setTime
+Input parameters: 
+10
+Return Value: 
+10
+
+The line : Lines 18-18
+@@Class: 
+ZipEntry
+Call method: 
+getTime
+Input parameters: 
+Return Value: 
+10
+
+The line : Lines 16-16
+@@Class: 
+Date
+Call method: 
+getTime
+Input parameters: 
+Return Value: 
+10
+Thu Jan 01 08:00:00 CST 1970
+Thu Jan 01 08:00:00 CST 1970

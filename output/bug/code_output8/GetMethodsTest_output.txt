@@ -1,0 +1,14 @@
+---Derived---
+
+The line : Lines 25-25
+@@Class:
+Class
+The object:
+interface GetMethodsTest$Derived
+Call method:
+getMethods
+Input parameters:
+Return Value:
+public abstract GetMethodsTest$Derived$DerivedFoo GetMethodsTest$Derived.foo()
+public default GetMethodsTest$Base$BaseFoo GetMethodsTest$Derived.foo()
+----------

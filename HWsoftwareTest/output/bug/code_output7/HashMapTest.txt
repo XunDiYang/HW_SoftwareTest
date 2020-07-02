@@ -1,0 +1,20 @@
+
+The line : Lines 11-12
+@@Class: 
+Map
+Call method: 
+put
+Input parameters: 
+VAR1=var
+VAR=var1
+Return Value: 
+{VAR=var1, VAR1=var}
+
+The line : Lines 13-13
+@@Class: 
+Map
+Call method: 
+keySet
+Input parameters: 
+Return Value: 
+[VAR, VAR1]
